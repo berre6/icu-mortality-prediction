@@ -12,6 +12,9 @@ I explored the data, visualized feature importance, trained models, and explaine
 - **Missing data:** None  
 - **Key findings:** Age, serum creatinine, and time in ICU are important features for mortality.
 
+  <img width="3002" height="1638" alt="global_feature_impact" src="https://github.com/user-attachments/assets/f33c0d6b-0a96-4578-8d90-b5d7d3c55742" />
+
+
 ## Project Structure
 
 icu-mortality-prediction/
