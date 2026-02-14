@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-Results:
+RESULTS:
 
 -Trained models achieved around 80% accuracy.
 
@@ -53,7 +53,7 @@ Results:
 
 -Top protective features: age, serum_creatinine, time
 
-License:
+LICENSE:
 
 This project is open-source and free to use.
 
