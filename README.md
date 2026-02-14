@@ -32,17 +32,17 @@ icu-mortality-prediction/
 ```bash
 git clone https://github.com/berre6/icu-mortality-prediction.git
 cd icu-mortality-prediction
-
+```
 2. Create a virtual environment and install dependencies:
-
+```bash
 python -m venv venv
 venv\Scripts\activate    # Windows
 pip install -r requirements.txt
-
+```
 3. Open the Jupyter notebooks:
-
+```bash
 jupyter notebook
-
+```
 Results:
 
 -Trained models achieved around 80% accuracy.
