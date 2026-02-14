@@ -5,7 +5,7 @@ Predicting ICU patient mortality using clinical data and machine learning models
 ## Overview
 
 This project uses a dataset of heart failure patients to predict mortality events in the ICU.  
-We explored the data, visualized feature importance, trained models, and explained predictions using SHAP values.
+I explored the data, visualized feature importance, trained models, and explained predictions using SHAP values.
 
 - **Dataset:** 299 patients, 13 features, 1 target (`DEATH_EVENT`)  
 - **Target:** `DEATH_EVENT` (0 = survived, 1 = deceased)  
